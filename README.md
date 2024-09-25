@@ -2,7 +2,7 @@
 
 ## Contexto:
 
-Me coloco no lugar de um cientista de dados em uma instituição financeira renomada. A empresa está enfrentando um aumento significativo nas transações fraudulentas de cartões de crédito, o que está prejudicando a confiança dos clientes e causando prejuízos financeiros. Sua tarefa é desenvolver um modelo preditivo que possa identificar transações fraudulentas com alta precisão, minimizando assim o impacto financeiro e protegendo a reputação da instituição.
+Me coloco no lugar de um cientista de dados em uma instituição financeira renomada. A empresa está enfrentando um aumento significativo nas transações fraudulentas de cartões de crédito, o que está prejudicando a confiança dos clientes e causando prejuízos financeiros. Minha tarefa é desenvolver um modelo preditivo que possa identificar transações fraudulentas com alta precisão, minimizando assim o impacto financeiro e protegendo a reputação da instituição.
 
 ## Base de Dados:
 
